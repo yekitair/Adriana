@@ -27,7 +27,7 @@ And a Software As Service.
 
 11-And Open Dialog of Windows will open which shows only .wallet files, choose your wallet and WAIT enough that software could connect to SERVER and exchange necessary data, then it open main form, showing your portfolio and make you capable send and receive money in Fiat or Crypto.
 
-##Fiat  Monies:
+## Fiat  Monies:
 
 AED: United Arab Emirated Dirham
 
@@ -48,7 +48,7 @@ QTR: Qatari Rial
 USD: United State Dollars
 
 
-##Crypto Monies:
+## Crypto Monies:
 BTC: BitCoin
 
 BCH: BitCoin Cash
@@ -72,7 +72,7 @@ DOGE
 USDT: Tether
 
 
-##Special Tokens:
+## Special Tokens:
 
 14G: Quarter of Golden Coin
 
