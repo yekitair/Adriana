@@ -83,3 +83,10 @@ Ins: Insurance Token
 TvT: Tour and Travel Coin
 
 These four Tokens are Ethereum Ropsten ERC-20 Smart Contracts
+
+
+## Fee
+Transaction in Fiat has 1% fee and in Crypto (also special tokens) has 0.1% fee.
+
+## Wallet
+Buy your own wallet from your friend who introduced this P2P Exchnage software.
