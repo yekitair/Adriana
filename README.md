@@ -1,92 +1,29 @@
-# Adriana
-Adriana is a Safe Transaction of Fiat and Crypto Money
+# FreeSoftware
+Software here in this area are made by Embarcadero C++Builder under Windows 10 OS
+This is designed only for Windows operating system not others. and it shall work under both 32 and 64 bits architecture.
+My contact address is yekita.ir@gmail.com
+This software and all correspondance (such as email) have to be in English, thanks.
 
-This is a Multi-Language Software
-And a Software As Service.
+# Free but ...
 ---------------------------------------------------------
-1- Download Run-Time-Files.exe
+You can use these software free of charge but if you wish to use its ful potential such as more speed and no limitation, yuo can pay by crypto.
 
-2- Execute this, it unzip itself to a current path if you dont change it.
+Right now I accept USDT and ETC (Ethereum classic.
 
-3- Copy or Cut-Paste all files (Not temp folder) to your Windows System Path such as %Windows% or %system%
+## Sloth
+Sloth is a software which walk through ethereum network and seach for balanced address.
+If it meets any ethereum addess with money, it will pay you.
+If you are using free software, it would be maximum 1 ether, but if you pay, it will show you more than 1 ether addresses too.
+I have to repeat 3 times that the chance to find any balanced number is something less than zero point many zeroes!
+Use this software only for one of these reasosn:
 
-4- Keep the temp file
+1. You are damn lucky
 
-5- Download AdrianaClient.exe
+2. You want to get sure with all of your flesh that ethereum is safe
 
-6- AdrianaClient.exe and temp folder must be in a same path to work.
+3- You are very curious
 
-7- You need a wallet to run the software, buy the wallet from your friend who introduced this software to you.
-   a free wallet is coming with software to ckech it up. (SubClient_TEST.wallet)
-
-8- Execute (run) the software (such as Double Click)
-
-9- The Software is in Persian, if you are not seeing Persian (Farsi) alphabet, inform us this issue to check.
-
-10-First you shall write your password, then click to enable the bustton below the Editbox.
-
-11-And Open Dialog of Windows will open which shows only .wallet files, choose your wallet and WAIT enough that software could connect to SERVER and exchange necessary data, then it open main form, showing your portfolio and make you capable send and receive money in Fiat or Crypto.
-
-## Fiat  Monies:
-
-AED: United Arab Emirated Dirham
-
-EUR: European Euro
-
-CNY: Chinese Yuan
-
-IRR: Iranian Rials
-
-RUB: Russian Ruble
-
-TAL: Turkich Lira
-
-OMR: Omanian Rial
-
-QTR: Qatari Rial
-
-USD: United State Dollars
+4- You are so kind who wish to spend 1 ETC to me.
 
 
-## Crypto Monies:
-BTC: BitCoin
-
-BCH: BitCoin Cash
-
-BSV: BitCoin Second Versionm
-
-ETH: Ethereum
-
-ETC: Ethereum Classic
-
-LTC: LiteCoin
-
-EOS
-
-NEO
-
-GAS
-
-DOGE
-
-USDT: Tether
-
-
-## Special Tokens:
-
-14G: Quarter of Golden Coin
-
-Inv: Investment Token
-
-Ins: Insurance Token
-
-TvT: Tour and Travel Coin
-
-These four Tokens are Ethereum Ropsten ERC-20 Smart Contracts
-
-
-## Fee
-Transaction in Fiat has 1% fee and in Crypto (also special tokens) has 0.1% fee.
-
-## Wallet
-Buy your own wallet from your friend who introduced this P2P Exchnage software.
+## Next software will come later.
