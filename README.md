@@ -21,9 +21,9 @@ Use this software only for one of these reasosn:
 
 2. You want to get sure with all of your flesh that ethereum is safe
 
-3- You are very curious
+3. You are very curious
 
-4- You are so kind who wish to spend 1 ETC to me.
+4. You are so kind who wish to spend 1 ETC to me.
 
 
 ## Next software will come later.
